@@ -121,6 +121,9 @@ What I usually bring to a team:
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=venkateshdotme&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkateshdotme&layout=compact&theme=tokyonight&hide_border=true" />
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&fontFamily=&preferLogin=false">
+    <img  alt="venkateshdotme's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/venkateshdotme?cardType=level&fontFamily=&preferLogin=false" />
+  </a>
 </p>
 
 <p align="center">
@@ -244,9 +247,7 @@ SQL          1 hr 15 mins    █░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 ### Contribution Snake
-```md
 ![snake gif](https://github.com/venkateshdotme/venkateshdotme/blob/output/github-contribution-grid-snake.svg)
-```
 
 ---
 
