@@ -1,31 +1,31 @@
-<h1 align="center">Aarav Sharma</h1>
+<h1 align="center">Venatesh Jeyakumaresan</h1>
 <h3 align="center">Building reliable web products, developer tools, and polished user experiences.</h3>
 
 <p align="center">
   <a href="https://portfolio.example.com">Portfolio</a> •
   <a href="https://blog.example.com">Blog</a> •
-  <a href="mailto:aarav@example.com">Email</a> •
-  <a href="https://linkedin.com/in/aarav-sharma">LinkedIn</a> •
-  <a href="https://twitter.com/aaravcodes">X/Twitter</a>
+  <a href="mailto:venkatesh.jeyalumaresan@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/venkatesh-jeyakumaresan/">LinkedIn</a> •
+  <a href="https://twitter.com/venkateshdotme">X/Twitter</a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aarav-sharma&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/aarav-sharma?label=Followers&style=flat" alt="followers" />
-  <img src="https://img.shields.io/github/stars/aarav-sharma?affiliations=OWNER%2CCOLLABORATOR&label=Total%20Stars&style=flat" alt="stars" />
+  <img src="https://komarev.com/ghpvc/?username=venkateshdotme&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/venkateshdotme?label=Followers&style=flat" alt="followers" />
+  <img src="https://img.shields.io/github/stars/venkateshdotme?affiliations=OWNER%2CCOLLABORATOR&label=Total%20Stars&style=flat" alt="stars" />
 </p>
 
 ---
 
-## `whoami`
+## whoami
 
 ```txt
-Name: Aarav Sharma
-Role: Full-Stack Developer | Open Source Contributor | Technical Writer
-Location: Bengaluru, India
+Name: Venatesh Jeyakumaresan
+Role: Back end Developer | Open Source Contributor | Technical Writer
+Location: Pune, India
 Focus: Scalable apps, APIs, DX, automation, UI performance
 Currently: Building cloud-native tools and experimenting with AI-assisted workflows
-Open to: Remote roles, freelance work, OSS collaborations, speaking opportunities
+Open to: Remote roles
 ```
 
 ---
@@ -47,12 +47,12 @@ What I usually bring to a team:
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,express,python,postgres,mongodb,docker,aws,git,github,linux,vscode,figma&perline=8" />
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,go,postgres,mongodb,docker,aws,git,github,linux,vscode&perline=8" />
   </a>
 </p>
 
 ### Strength Areas
-- **Frontend:** React, Next.js, TypeScript, responsive UI, performance optimization
+- **Programming Languages:** JavaScript, TypeScript, Golang (Go programming language)
 - **Backend:** Node.js, Express, REST APIs, auth flows, background jobs
 - **Data:** PostgreSQL, MongoDB, schema design, query tuning
 - **DevOps:** Docker, CI/CD, cloud deployment, observability basics
@@ -78,7 +78,7 @@ What I usually bring to a team:
       <p>A modern admin dashboard system with reusable components, analytics widgets, and role-based access patterns.</p>
       <p><strong>Stack:</strong> Next.js, TypeScript, Tailwind, PostgreSQL</p>
       <p>
-        <a href="https://github.com/aarav-sharma/atlas-ui">Repository</a> •
+        <a href="https://github.com/venkateshdotme/atlas-ui">Repository</a> •
         <a href="https://atlas-ui.example.com">Live Demo</a>
       </p>
     </td>
@@ -87,7 +87,7 @@ What I usually bring to a team:
       <p>A workflow automation backend with queues, scheduled jobs, webhook handling, and audit logging.</p>
       <p><strong>Stack:</strong> Node.js, Express, Redis, Docker</p>
       <p>
-        <a href="https://github.com/aarav-sharma/taskforge-api">Repository</a> •
+        <a href="https://github.com/venkateshdotme/taskforge-api">Repository</a> •
         <a href="https://taskforge.example.com">Docs</a>
       </p>
     </td>
@@ -98,7 +98,7 @@ What I usually bring to a team:
       <p>A personal knowledge system for developers with bookmarks, notes, tags, and learning paths.</p>
       <p><strong>Stack:</strong> React, Node.js, MongoDB</p>
       <p>
-        <a href="https://github.com/aarav-sharma/devnotes-os">Repository</a> •
+        <a href="https://github.com/venkateshdotme/devnotes-os">Repository</a> •
         <a href="https://devnotes.example.com">Preview</a>
       </p>
     </td>
@@ -107,7 +107,7 @@ What I usually bring to a team:
       <p>A playground for testing prompt workflows, reusable templates, and evaluation notes for AI-assisted tools.</p>
       <p><strong>Stack:</strong> Next.js, Python, SQLite</p>
       <p>
-        <a href="https://github.com/aarav-sharma/promptlab">Repository</a> •
+        <a href="https://github.com/venkateshdotme/promptlab">Repository</a> •
         <a href="https://promptlab.example.com">Live App</a>
       </p>
     </td>
@@ -119,16 +119,16 @@ What I usually bring to a team:
 ## GitHub Snapshot
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aarav-sharma&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarav-sharma&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=venkateshdotme&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkateshdotme&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=aarav-sharma&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=venkateshdotme&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aarav-sharma&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=venkateshdotme&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
 </p>
 
 ---
@@ -229,7 +229,7 @@ Always learning: system design, product strategy, AI tooling, writing
 
 ### Activity Graph
 ```md
-[![Aarav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aarav-sharma&theme=tokyo-night&hide_border=true)](https://github.com/Aarav-sharma)
+[![venkatesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=venkateshdotme&theme=tokyo-night&hide_border=true)](https://github.com/venkateshdotme)
 ```
 
 ### WakaTime / Coding Stats
@@ -238,25 +238,15 @@ Always learning: system design, product strategy, AI tooling, writing
 TypeScript   9 hrs 41 mins   ███████████░░░░░░░░░░░░░   42.3%
 JavaScript   5 hrs 22 mins   ██████░░░░░░░░░░░░░░░░░   23.4%
 Markdown     3 hrs 18 mins   ████░░░░░░░░░░░░░░░░░░░   14.5%
-Python       2 hrs 27 mins   ██░░░░░░░░░░░░░░░░░░░░░   10.8%
+Golang       2 hrs 27 mins   ██░░░░░░░░░░░░░░░░░░░░░   10.8%
 SQL          1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░░   5.5%
 ```
 <!--END_SECTION:waka-->
 
 ### Contribution Snake
 ```md
-![snake gif](https://github.com/aarav-sharma/aarav-sharma/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/venkateshdotme/venkateshdotme/blob/output/github-contribution-grid-snake.svg)
 ```
-
----
-
-## README Setup Checklist
-
-- Create a **public** repository named exactly **aarav-sharma**
-- Add this file as `README.md`
-- Replace all dummy links, usernames, and project names
-- Choose only the widgets you actually want to keep
-- Pin your best repositories on the GitHub profile page
 
 ---
 
