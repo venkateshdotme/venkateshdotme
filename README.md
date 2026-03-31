@@ -121,9 +121,6 @@ What I usually bring to a team:
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=venkateshdotme&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkateshdotme&layout=compact&theme=tokyonight&hide_border=true" />
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&fontFamily=&preferLogin=false">
-    <img  alt="venkateshdotme's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/venkateshdotme?cardType=level&fontFamily=&preferLogin=false" />
-  </a>
 </p>
 
 <p align="center">
@@ -230,10 +227,13 @@ Always learning: system design, product strategy, AI tooling, writing
 
 ## Optional Extras
 
+### GitHub Stat's
+<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&fontFamily=&preferLogin=false">
+  <img  alt="venkateshdotme's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/venkateshdotme?cardType=level&fontFamily=&preferLogin=false" />
+</a>
+
 ### Activity Graph
-```md
 [![venkatesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=venkateshdotme&theme=tokyo-night&hide_border=true)](https://github.com/venkateshdotme)
-```
 
 ### WakaTime / Coding Stats
 <!--START_SECTION:waka-->
@@ -248,6 +248,68 @@ SQL          1 hr 15 mins    █░░░░░░░░░░░░░░░░
 
 ### Contribution Snake
 ![snake gif](https://github.com/venkateshdotme/venkateshdotme/blob/output/github-contribution-grid-snake.svg)
+
+### Must-Have Stats
+
+These are the must-have stats for your GitHub profile. Feel free to select one or more of them and add them to your profile. It is recommended to have a maximum of one or two of these stats in your profile.
+
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=venkateshdotme&theme=radical" alt="Hoang Son's GitHub Streak" />
+</div>
+
+<div align="center">
+    <img src="https://github-contribution-stats.vercel.app/api/?username=venkateshdotme&theme=radical&layout=compact" alt="Hoang Son's GitHub Contributions" />
+</div>
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=venkateshdotme&show_icons=true&theme=radical" alt="Hoang Son's GitHub Stats" />
+</div>
+
+<div align="center">
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/venkateshdotme?cardType=level&theme=radical&preferLogin=false" alt="My Awesome Stats" />
+</div>
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkateshdotme&layout=compact&theme=radical&langs_count=20" alt="Top Langs" />
+</div>
+
+---
+
+## Additional Stats
+
+These are the additional stats for your GitHub profile. You can select one or more of them and add them to your profile. It is recommended to have a maximum of three of these stats in your profile.
+
+### Detailed Languages
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkateshdotme&langs_count=20&theme=radical" alt="Hoang Son's Languages" />
+</div>
+
+### GitHub Trophies
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=venkateshdotme&theme=radical&no-frame=true&margin-w=4" alt="Hoang Son's GitHub Trophies" />
+</div>
+
+### Repositories Contribution Graph
+<div align="center">
+    <img src="https://ghchart.rshah.org/venkateshdotme" alt="Hoang Son's Repos Contributions" />
+</div>
+
+### GitHub Contributions Graph
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=venkateshdotme&theme=radical" alt="Hoang Son's GitHub Achievements" />
+</div>
+
+### Visitor Count
+<div align="center">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=venkateshdotme" alt="Visitor Count" />
+</div>
+
+### Sponsor Me
+<div align="center">
+    <a href="https://github.com/sponsors/venkateshdotme">
+        <img src="https://img.shields.io/badge/Sponsor-%venkateshdotme?style=flat&logo=github" alt="Sponsor me" />
+    </a>
+</div>
 
 ---
 
